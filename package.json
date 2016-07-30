@@ -1,0 +1,30 @@
+{
+  "name": "rioct-hello-world-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "see": "node node_modules/hostr/bin/hostr"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.14.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "rioct": "^0.1.11"
+  },
+  "devDependencies": {
+    "@types/lodash": "0.0.28",
+    "@types/react": "^0.14.27",
+    "@types/react-dom": "^0.14.14",
+    "hostr": "^2.3.0",
+    "rioct-cli": ">=0.3.0",
+    "rioct-loader": "^0.2.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.0",
+    "webpack": "^1.13.1"
+  }
+}
